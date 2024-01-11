@@ -9,7 +9,7 @@ img{
    }
    
    #short{
-      width:5.5%;
+      width:8.5%;
       }
 
 /* Add a black background color to the top navigation */
@@ -70,7 +70,9 @@ img{
   }
 }
 
-
+h2.headertekst {
+  text-align: center;
+}
 /* ----------------------------------------------------*/
 
 /* Style the navigation menu */
